@@ -20,9 +20,9 @@ To use this pycoll module in to your program, you can simply import the function
 
 ## Additional links 
 
-You can also contribute to this package on GitHub:
+You can also get it from pypi.org
 
-https://github.com/sachinshrmaa/pycoll/
+https://pypi.org/project/pycoll/
 
 
 

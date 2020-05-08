@@ -13,9 +13,10 @@ Type or Copy the pip code and paste it into your terminal.
 
 To use this pycoll module in to your program, you can simply import the functions which you want to use: 
 
->> from pycoll import area_square
+import pycoll as pc
 
->> area_square(10)
+pc.area_parallelogram(15, 20)
+
 
 
 ## Additional links 

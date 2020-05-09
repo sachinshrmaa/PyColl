@@ -20,6 +20,6 @@ def area_parallelogram(base, height):
     return print(area)
 
 #To fing the area of Rhombus
-def area_rhombus(diagonal, diagonal):
-    area = diagonal * diagonal /2
+def area_rhombus(diagonal1, diagonal2):
+    area = diagonal1 * diagonal2 /2
     return print(area)

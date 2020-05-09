@@ -18,3 +18,8 @@ def area_triangle(base, height):
 def area_parallelogram(base, height):
     area =  base * height
     return print(area)
+
+#To fing the area of Rhombus
+def area_rhombus(diagonal, diagonal):
+    area = diagonal * diagonal /2
+    return print(area)

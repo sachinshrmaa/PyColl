@@ -6,7 +6,7 @@ PyColl package is a collection of functions which can be used find the area of S
 
 Type or Copy the pip code and paste it into your terminal.
 
-     pip install pycall
+     pip install pycoll
 
 ## Usage
 

@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
    
     name="pycoll",
-    version="0.0.1",
+    version="0.0.2",
     author="Sachin Sharma",
     author_email="contact@sachinshrmaa.com",
     description="Find Area of Square, Rectangle, Triangle and Parallelogram ",

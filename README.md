@@ -23,14 +23,17 @@ To use this pycoll module in to your program, you can simply import the function
     #pass one parameter
     pycoll.area_square(side) 
     
-    #pass two parameter
+    #pass two parameters
     pycoll.area_rectangle(length, breadth)
     
-    #pass two parameter
+    #pass two parameters
     pycoll.area_triangle(base, height)
     
-    #pass two parameter
+    #pass two parameters
     pycoll.area_parallelogram(base, height)
+
+    #pass two parameters
+    pycoll.area_parallelogram(diagonal1, diagonal2)
 
 ## Additional links
 

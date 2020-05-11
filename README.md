@@ -33,7 +33,7 @@ To use this pycoll module in to your program, you can simply import the function
     pycoll.area_parallelogram(base, height)
 
     #pass two parameters
-    pycoll.area_parallelogram(diagonal1, diagonal2)
+    pycoll.area_rhombus(diagonal1, diagonal2)
 
 ## Additional links
 
